@@ -13,6 +13,7 @@ public class JenkinsProApplication {
 		
 		LOGGER.info("Application is going to start");
 		LOGGER.info("Application is going to start1");
+		LOGGER.info("Application is going to start2");
 		SpringApplication.run(JenkinsProApplication.class, args);
 		LOGGER.info("Application Ended here");
 	}
